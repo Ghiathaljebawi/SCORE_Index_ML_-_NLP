@@ -1,0 +1,6 @@
+To set the env:
+
+conda create -n score_env python=3.12.3
+conda activate score_env
+pip install -r requirements
+
