@@ -4,3 +4,22 @@ conda create -n score_env python=3.12.3
 conda activate score_env
 pip install -r requirements
 
+-------------------------
+
+SCORE_Index_ML_-_NLP/
+├── artifacts/
+├── data/
+├── notebooks/
+│ ├── .ipynb_checkpoints/
+│ ├── archived/
+│ ├── 250728_SCORE_ML_LR_GRIDSEARCH.ipynb
+│ ├── 250728_SCORE_ML_LR.ipynb
+│ └── 250728_SCORE_ML_preprocessing.ipynb
+├── src/
+│ ├── pycache/
+│ └── SCORE_functions.py
+├── README.md
+└── requirements.txt
+
+-------------------------
+
